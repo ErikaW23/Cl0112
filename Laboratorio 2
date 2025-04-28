@@ -1,1 +1,8 @@
 LAB 2
+En este laboratorio sobre simular uuna batalla de robots se utilizaran dos clases Robot.java y JuegoBatalla.java (main)
+En Robot se declaran los atributos y modulos de los robots, los modulos serán para el ataque y defensa.
+Con JuegoBatalla se usa random para establecer datos aleatorios a cada robot creado.
+Más adelante, estaremos en la inicialización de batalla, se utiliza el while para repetir el orden y también uso de for
+para que los robots no tengan la posibilidad de autoatacarse.
+Se usará switch para que el user determine como desea seguir adelante con la batalla, tendrá tres opciones: continuar, salir o ver estada.
+Al final se termina el programa para expresar cual robot gano la batalla.
